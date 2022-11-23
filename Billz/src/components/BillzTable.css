@@ -1,0 +1,27 @@
+.table-header {
+    background-color: black ;
+    color: white;
+}
+
+.data-table-header{
+    background-color: #e1effb; ;
+    /* color: white; */
+    font-weight: bold;
+}
+
+.data-table-header :hover{
+    background-color: white ;
+    color: black;
+}
+
+.favorites{
+    
+}
+
+.selected{
+    background-color: yellow !important;
+}
+
+.css-1jbbcbn-MuiDataGrid-columnHeaderTitle{
+    font-weight: 600 !important;
+}

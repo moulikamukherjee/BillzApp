@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App-header {
+  font-size: larger;
+  text-align: center;
+  height: 100px;
+  padding-top: 40px;
+  padding-left: 150px;
+  margin-bottom: 40px;
+  background: url('./images/HeaderBackground.png') no-repeat; 
+}
